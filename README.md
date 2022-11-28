@@ -32,5 +32,5 @@ java -jar ..\perfomance_lab_java_test\Test4\out\artifacts\Test4_jar\Test4.jar in
 
 ### Примечание
 
-Все .jar лежат в out\artifacts\
+Все .jar лежат в .\out\artifacts\
  
