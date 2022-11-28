@@ -21,6 +21,7 @@ java -jar ..\perfomance_lab_java_test\Test2\out\artifacts\Test2_jar\Test2.jar ci
 
 java -jar ..\perfomance_lab_java_test\Test3\out\artifacts\Test3_jar\Test3.jar D:\Загрузки\12345\perfomance_lab_java_test\Test3\resource\tests.json D:\Загрузки\12345\perfomance_lab_java_test\Test3\resource\values.json
 
+report.json сохраняется в корень откуда запущена программа
 
 # 4 Задача.
 консольный запуск:
